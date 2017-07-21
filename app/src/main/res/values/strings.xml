@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Creative</string>
+
+
+    <!-- Activity Window Transitions Activity -->
+    <string name="text_fade_fast">Fade fast</string>
+    <string name="text_fade_slow">Fade slow</string>
+    <string name="text_slide_right">আয়</string>
+    <string name="text_slide_bottom">ব্যয় </string>
+    <string name="text_explode">দেনা</string>
+    <string name="text_explode_bounce">পাওনা</string>
+
+    <!-- General Messages -->
+    <string name="text_hipster_ipsum_longer">Gluten-free echo park bushwick kinfolk flannel poutine. Selvage fanny pack banjo, actually distillery ethical organic put a bird on it art party. Letterpress distillery tilde +1 blog, cray green juice crucifix hella meditation.</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_first">FirstActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Done</string>
+
+</resources>
